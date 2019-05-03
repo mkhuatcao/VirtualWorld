@@ -1,0 +1,16 @@
+3*2*Antelope
+8*9*Antelope
+6*18*Belladonna
+19*18*Fox
+17*5*Fox
+11*2*Grass
+12*14*Grass
+2*10*Guarana
+1*18*Human
+17*10*Sheep
+18*2*Sheep
+4*5*SowThistle
+14*18*Turtle
+12*10*Wolf
+18*14*Grass
+6*14*Wolf
